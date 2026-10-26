@@ -43,7 +43,6 @@ h3 {
 
 project-card {
   display: block;
-  border: 1px solid black;
 }
 
 /* Child combinator: targets the page's direct header and footer. */
